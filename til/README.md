@@ -3,6 +3,27 @@
 <table>
   <tr>
     <td rowspan="2" width="40%" valign="top">
+      <a href="./2026-08-30-planning-cloud-project/">
+        <img
+          src="../assets/posts/til-2026-08-30.png"
+          alt="쉬는 날, 다음을 준비하다"
+          width="100%"
+        >
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <sub>TIL · 2026.08.30</sub><br>
+      <strong>쉬는 날, 다음을 준비하다</strong><br>
+      Go와 클라우드를 연결할 주말 프로젝트를 구상하고, 기록의 필요성을 다시 생각한 하루.
+    </td>
+  </tr>
+  <tr height="1">
+    <td width="60%" height="1" valign="bottom">
+      <strong><a href="./2026-08-30-planning-cloud-project/">글 읽기 →</a></strong>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="40%" valign="top">
       <a href="./2026-08-29-backtracking/">
         <img
           src="../assets/posts/til-2026-08-29.png"
