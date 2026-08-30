@@ -1,8 +1,8 @@
 # [TIL] 14시간 동안 백트래킹 문제를 붙잡고 배운 것
 
-<sub>TIL · 2026.08.30</sub>
+<sub>TIL · 2026.08.29</sub>
 
-<img src="../../assets/posts/til-2026-08-30.png" alt="14시간 동안 백트래킹 문제를 붙잡고 배운 것" width="100%">
+<img src="../../assets/posts/til-2026-08-29.png" alt="14시간 동안 백트래킹 문제를 붙잡고 배운 것" width="100%">
 
 ---
 
