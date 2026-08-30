@@ -30,19 +30,19 @@
   </tr>
   <tr>
     <td width="40%" valign="top">
-      <a href="./til/2026-08-29-python-basic-problem-solving/">
+      <a href="./til/2026-08-28-python-basic-problem-solving/">
         <img
-          src="./assets/posts/til-2026-08-29.png"
+          src="./assets/posts/til-2026-08-28.png"
           alt="Python 기초 문제를 직접 풀어 본 기록"
           width="100%"
         >
       </a>
     </td>
     <td width="60%" valign="top">
-      <sub>TIL · 2026.08.29</sub><br>
+      <sub>TIL · 2026.08.28</sub><br>
       <strong>Python 기초 문제를 직접 풀어 본 기록</strong><br>
       문자열, 배열, 딕셔너리, 완전 탐색, 재귀 문제를 풀며 막힌 점과 배운 점.<br><br>
-      <strong><a href="./til/2026-08-29-python-basic-problem-solving/">글 읽기 →</a></strong>
+      <strong><a href="./til/2026-08-28-python-basic-problem-solving/">글 읽기 →</a></strong>
     </td>
   </tr>
   <tr>

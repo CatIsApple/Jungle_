@@ -1,8 +1,8 @@
 # [TIL] Python 기초 문제를 직접 풀어 본 기록
 
-<sub>TIL · 2026.08.29</sub>
+<sub>TIL · 2026.08.28</sub>
 
-<img src="../../assets/posts/til-2026-08-29.png" alt="Python 기초 문제를 직접 풀어 본 기록" width="100%">
+<img src="../../assets/posts/til-2026-08-28.png" alt="Python 기초 문제를 직접 풀어 본 기록" width="100%">
 
 ---
 
