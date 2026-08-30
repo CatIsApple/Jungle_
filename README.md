@@ -1,11 +1,11 @@
 # Jungle_
 
 <p>
-  <strong><a href="./projects/">Projects</a></strong> ·
-  <strong><a href="./experiences/">Experiences</a></strong> ·
-  <strong><a href="./reviews/">Reviews</a></strong> ·
-  <strong><a href="./til/">TIL</a></strong> ·
-  <strong><a href="./wil/">WIL</a></strong>
+  <strong><a href="./projects/">Projects(1)</a></strong> ·
+  <strong><a href="./experiences/">Experiences(2)</a></strong> ·
+  <strong><a href="./reviews/">Reviews(0)</a></strong> ·
+  <strong><a href="./til/">TIL(2)</a></strong> ·
+  <strong><a href="./wil/">WIL(1)</a></strong>
 </p>
 
 ## Latest
