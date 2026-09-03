@@ -3,6 +3,27 @@
 <table>
   <tr>
     <td rowspan="2" width="40%" valign="top">
+      <a href="./2026-09-03-trust-my-way-and-dig-deeper/">
+        <img
+          src="../assets/posts/wil-2026-09-03.png"
+          alt="내 방식을 믿고 끝까지 파고들기"
+          width="100%"
+        >
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <sub>WIL · 2026.09.03</sub><br>
+      <strong>내 방식을 믿고 끝까지 파고들기</strong><br>
+      알고리즘과 CS:APP 앞에서 흔들렸지만, 끝까지 파고드는 학습 방식을 다시 믿게 된 2주차 기록.
+    </td>
+  </tr>
+  <tr height="1">
+    <td width="60%" height="1" valign="bottom">
+      <strong><a href="./2026-09-03-trust-my-way-and-dig-deeper/">글 읽기 →</a></strong>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="40%" valign="top">
       <a href="./2026-08-27-krafton-jungle-week-1/">
         <img
           src="../assets/posts/wil-2026-08-27.png"
