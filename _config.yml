@@ -1,0 +1,6 @@
+title: Jungle_ WIL
+lang: ko-KR
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
