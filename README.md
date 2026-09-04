@@ -24,7 +24,7 @@
     <td width="60%" valign="top">
       <sub>WIL · 2026.09.03</sub><br>
       <strong>크래프톤 정글 2주차</strong><br>
-      Python 기초 문제부터 백트래킹, 시간 복잡도와 기수 정렬까지 학습한 2주차 기록.
+      10개 문제의 풀이를 작성하며 Python 기초부터 백트래킹, 복잡도, 이분 탐색과 머지 정렬까지 학습한 기록.
     </td>
   </tr>
   <tr height="1">
