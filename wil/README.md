@@ -14,12 +14,13 @@
     <td width="60%" valign="top">
       <sub>WIL · 2026.09.03</sub><br>
       <strong>내 방식을 믿고 끝까지 파고들기</strong><br>
-      알고리즘과 CS:APP 앞에서 흔들렸지만, 끝까지 파고드는 학습 방식을 다시 믿게 된 2주차 기록.
+      문자열부터 백트래킹과 기수 정렬까지 학습한 내용과 다음 주 목표를 정리한 2주차 기록.
     </td>
   </tr>
   <tr height="1">
     <td width="60%" height="1" valign="bottom">
-      <strong><a href="./2026-09-03-trust-my-way-and-dig-deeper/">글 읽기 →</a></strong>
+      <strong><a href="./2026-09-03-trust-my-way-and-dig-deeper/">글 읽기 →</a></strong>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <strong><a href="https://catisapple.github.io/Jungle_/wil/2026-09-03-trust-my-way-and-dig-deeper/">글만 보기 ↗</a></strong>
     </td>
   </tr>
   <tr>
