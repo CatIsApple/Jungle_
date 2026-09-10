@@ -19,7 +19,8 @@
   </tr>
   <tr height="1">
     <td width="60%" height="1" valign="bottom">
-      <strong><a href="./2026-09-10-krafton-jungle-week-3/">글 읽기 →</a></strong>
+      <strong><a href="./2026-09-10-krafton-jungle-week-3/">글 읽기 →</a></strong>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <strong><a href="https://catisapple.github.io/Jungle_/wil/2026-09-10-krafton-jungle-week-3/">글만 보기 ↗</a></strong>
     </td>
   </tr>
   <tr>
