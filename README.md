@@ -5,12 +5,33 @@
   <strong><a href="./experiences/">Experiences(2)</a></strong> ·
   <strong><a href="./reviews/">Reviews(0)</a></strong> ·
   <strong><a href="./til/">TIL(4)</a></strong> ·
-  <strong><a href="./wil/">WIL(2)</a></strong>
+  <strong><a href="./wil/">WIL(3)</a></strong>
 </p>
 
 ## Latest
 
 <table>
+  <tr>
+    <td rowspan="2" width="40%" valign="top">
+      <a href="./wil/2026-09-10-krafton-jungle-week-3/">
+        <img
+          src="./assets/posts/wil-2026-09-10.png"
+          alt="크래프톤 정글 3주차"
+          width="100%"
+        >
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <sub>WIL · 2026.09.10</sub><br>
+      <strong>크래프톤 정글 3주차</strong><br>
+      계획했던 학습을 끝내지 못한 한 주를 돌아보고, 4주차의 집중과 개선을 다짐한 기록.
+    </td>
+  </tr>
+  <tr height="1">
+    <td width="60%" height="1" valign="bottom">
+      <strong><a href="./wil/2026-09-10-krafton-jungle-week-3/">글 읽기 →</a></strong>
+    </td>
+  </tr>
   <tr>
     <td rowspan="2" width="40%" valign="top">
       <a href="./wil/2026-09-03-krafton-jungle-week-2/">
