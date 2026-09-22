@@ -5,12 +5,34 @@
   <strong><a href="./experiences/">Experiences(2)</a></strong> ·
   <strong><a href="./reviews/">Reviews(0)</a></strong> ·
   <strong><a href="./til/">TIL(4)</a></strong> ·
-  <strong><a href="./wil/">WIL(3)</a></strong>
+  <strong><a href="./wil/">WIL(4)</a></strong>
 </p>
 
 ## Latest
 
 <table>
+  <tr>
+    <td rowspan="2" width="40%" valign="top">
+      <a href="./wil/2026-09-17-krafton-jungle-week-4/">
+        <img
+          src="./assets/posts/wil-2026-09-17.png"
+          alt="연결 리스트와 전달력"
+          width="100%"
+        >
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <sub>WIL · 2026.09.17</sub><br>
+      <strong>연결 리스트와 전달력</strong><br>
+      Linked List 문제를 풀고 CS:APP 3장 학습을 돌아보며, 발표 자료와 전달 방식을 함께 점검한 4주차 회고.
+    </td>
+  </tr>
+  <tr height="1">
+    <td width="60%" height="1" valign="bottom">
+      <strong><a href="./wil/2026-09-17-krafton-jungle-week-4/">글 읽기 →</a></strong>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <strong><a href="https://catisapple.github.io/Jungle_/wil/2026-09-17-krafton-jungle-week-4/">글만 보기 ↗</a></strong>
+    </td>
+  </tr>
   <tr>
     <td rowspan="2" width="40%" valign="top">
       <a href="./wil/2026-09-10-krafton-jungle-week-3/">
